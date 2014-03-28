@@ -3,6 +3,8 @@ PEP8meter
 Script to check for PEP8 compliance recursively in a folder.
 It depends on <https://github.com/jcrocholl/pep8>
 
+Sample output:
+
 ```
 VIOLATIONS
 ----------
